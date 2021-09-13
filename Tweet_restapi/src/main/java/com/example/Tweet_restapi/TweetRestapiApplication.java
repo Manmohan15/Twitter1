@@ -1,13 +1,13 @@
-package com.example.Spring_MVC_self;
+package com.example.Tweet_restapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringMvcSelfApplication {
+public class TweetRestapiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringMvcSelfApplication.class, args);
+		SpringApplication.run(TweetRestapiApplication.class, args);
 	}
 
 }
