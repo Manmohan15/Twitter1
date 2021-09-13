@@ -1,10 +1,10 @@
-package com.example.Spring_MVC_self;
+package com.example.Message_Restapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringMvcSelfApplicationTests {
+class MessageRestapiApplicationTests {
 
 	@Test
 	void contextLoads() {
